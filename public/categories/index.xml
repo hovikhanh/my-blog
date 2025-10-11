@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - ViKa&#39;s Blog</title>
-        <link>https://vika.id.vn/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Categories - Category - ViKa&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vikhanhho@gmail.com (Vi-Khanh Ho)</managingEditor>
-            <webMaster>vikhanhho@gmail.com (Vi-Khanh Ho)</webMaster><atom:link href="https://vika.id.vn/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>vikhanhho@gmail.com (Vi-Khanh Ho)</webMaster><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

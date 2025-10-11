@@ -144,7 +144,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  date format
 
-  dateFormat = "2006-01-02"
+  dateFormat = "2025-10-11"
 
   # website title for Open Graph and Twitter Cards
 
@@ -194,7 +194,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # title name
 
-      name = ""
+      name = "ViKa"
 
       # you can add extra information before the name (HTML format is supported), such as icons
 
@@ -234,7 +234,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     # Site creation time
 
-    since = 2019
+    since = 2025
 
     # ICP info only in China (HTML format is supported)
 
@@ -384,7 +384,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # subtitle shown in home page (HTML format is supported)
 
-      subtitle = "This is ViKa's Blog"
+      subtitle = "ViKa ngu si li lom :>"
 
       # whether to use typeit animation for subtitle
 
@@ -420,33 +420,29 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [params.social]
 
-    GitHub = "https://github.com/hovikhanh"
+    GitHub = "hovikhanh"
 
-    Linkedin = "https://www.linkedin.com/in/hovikhanh/"
+    Linkedin = "hovikhanh"
 
-    X = "https://x.com/HoViKhanh" # 
+    X = "" # 
 
     Twitter = "" # 
 
-    Instagram = "https://www.instagram.com/hovikhanh/"
+    Instagram = "hovikhanh"
 
-    Facebook = "https://www.facebook.com/vix.khanhs.25.10"
+    Facebook = "vix.khanhs.25.10"
 
-    Telegram = "@vika_618"
+    Telegram = "vika_618"
 
     Medium = ""
 
-    Gitlab = "https://gitlab.com/hovikhanh"
+    Gitlab = "hovikhanh"
 
-    Youtubelegacy = ""
+    Youtubecustom = "vika92528"
 
-    Youtubecustom = ""
+    Tumblr = "vika618"
 
-    Youtubechannel = "https://www.youtube.com/@vika92528"
-
-    Tumblr = "https://www.tumblr.com/blog/vika618"
-
-    Quora = ""
+    Quora = "ViKa-559"
 
     Keybase = ""
 
@@ -582,7 +578,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     Email = "vikhanhho@gmail.com"
 
-    RSS = true # 
+    RSS = false # 
 
 
 
