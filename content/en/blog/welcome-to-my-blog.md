@@ -1,49 +1,65 @@
 ---
 title: "Welcome to My Blog"
-date: 2025-05-07
+date: 2026-03-19
 draft: false
-description: "Welcome to my blog where I share my journey of creating this website using Hugo and the CareerCanvas theme, along with insights about structural engineering, software development, and AI in construction."
-# featured_image: "/images/personal_web_demo.png"
-tags: ["blog", "welcome", "hugo", "web-development", "careercanvas"]
+description: "Welcome to my blog where I share my journey in cybersecurity, penetration testing, and building security tools as an Information Security student."
+featured_image: "/images/abc.png"
+tags: ["blog", "welcome", "cybersecurity", "pentesting", "hugo", "web-development"]
 ---
 
-Welcome to my blog! I'm excited to share my journey of creating this website and the experiences that led me here. As a structural engineer with a passion for software development, I wanted a platform that could effectively showcase both my technical expertise and professional experience.
+Welcome to my blog! 🚀  
+
+I'm excited to share my journey as an **Information Security student** and my path into the world of **cybersecurity and penetration testing**. This space is where I document what I learn, build, and break (ethically 😄).
 
 ## Why This Website?
 
-After exploring various options, I chose to build this site using Hugo, a powerful static site generator, and created my own theme called CareerCanvas. This decision was driven by several factors:
+As someone deeply interested in **offensive and defensive security**, I wanted a place to:
 
-- **Performance**: Hugo's static site generation ensures lightning-fast loading times
-- **Flexibility**: The ability to create custom layouts and components
-- **Developer Experience**: Writing content in Markdown makes it easy to focus on what matters
-- **Modern Design**: A clean, responsive interface that works beautifully on all devices
+- Document my **learning journey in cybersecurity**
+- Share **hands-on labs and real-world attack techniques**
+- Showcase **projects and tools** I’ve built
+- Build a personal brand as a future **security engineer**
+
+I chose to build this site using **Hugo** because it's fast, simple, and perfect for developers who love working with Markdown.
 
 ## What to Expect
 
-In this blog, I'll be sharing insights about:
+In this blog, I’ll be sharing content around:
 
-- **Structural Engineering**: My experiences and projects in the field
-- **Software Development**: Tips and tricks for engineers learning to code
-- **AI in Construction**: The latest developments and applications
-- **BIM Automation**: Streamlining construction processes
-- **Construction Technology**: Reviews and tutorials of useful tools
+- 🔐 **Penetration Testing**  
+  Writeups on vulnerabilities like SQL Injection, XSS, SSRF, and more  
+
+- 🐛 **Malware Analysis**  
+  Insights from building tools like macro malware detectors using Python and YARA  
+
+- ⚙️ **Security Tools & Automation**  
+  Scripts and techniques using Python, Nmap, and APIs like VirusTotal  
+
+- 🧪 **Lab Writeups**  
+  Practice from platforms like DVWA and PortSwigger Labs  
+
+- 🧠 **Research & Learning**  
+  Topics I'm exploring as part of InSecLab, including fuzzing and malware detection  
 
 ## The Tech Stack
 
 This website is built with:
 
-- **Hugo**: For static site generation
-- **Tailwind CSS**: For modern, utility-first styling
-- **CareerCanvas**: My custom theme designed for technical professionals
-- **GitHub**: For version control and deployment
+- **Hugo** – Static site generator  
+- **Markdown** – For writing content quickly and cleanly  
+- **GitHub** – Version control and deployment  
+- **Custom Theme** – Simple, developer-focused design  
 
 ## Join Me on This Journey
 
-I'll be sharing not just technical content, but also my experiences in:
+This blog is not just about knowledge — it's about **growth**.
 
-- Creating and maintaining this website
-- Developing the CareerCanvas theme
-- Learning and implementing new web technologies
-- Balancing engineering and software development
+I’m still learning, still making mistakes, and still improving every day. Through this blog, I hope to:
 
-Stay tuned for more content coming soon! I'm particularly excited to share my experience with creating the CareerCanvas theme and how it can help other technical professionals showcase their work effectively. 
+- Track my progress  
+- Share useful knowledge with others  
+- Connect with people in the cybersecurity community  
+
+If you're also learning cybersecurity or preparing for a career in this field, you're not alone 🤝  
+
+Stay tuned — more content coming soon! 🔥

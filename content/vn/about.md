@@ -3,7 +3,7 @@ title: "About"
 type: "homepage"
 featured_image: "/images/vika_profile.jpg"
 intro: >-
-  Hi! I'm Vi Khanh, a third-year Information Security student at UIT (VNU-HCM) and member of Inseclab’s teamQ, I specialize in offensive and defensive security with expertise in penetration testing. I am seeking an internship to enhance my practical cybersecurity skills in a professional environment while contributing meaningful value to the organization.
+  Tao vietnam
 
 study: >-
   Currently based in **Ho Chi Minh City**, I am focusing on **cybersecurity research and practical attack/defense techniques**. My work involves **Python scripting, malware analysis, and security automation** to better understand real-world threats and vulnerabilities.
